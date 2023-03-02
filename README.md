@@ -22,7 +22,7 @@ Codern allows the lecturer to create their study workspace for their student wit
 
 > Never stop coding, coding can change the world 🌏
 
-*We have first announced Codern for **Bangmod Hackathon 2023** (Thailand programming competition under KMUTT)* to replace the legacy autograder.
+*We have first announced [Codern (legacy)](https://github.com/codern-org/codern/tree/legacy) for **Bangmod Hackathon 2023** (Thailand programming competition under KMUTT).*
 
 ## Contributing
 

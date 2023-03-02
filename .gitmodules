@@ -4,3 +4,9 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/codern-org/frontend.git
+[submodule "backend/user-service"]
+	path = backend/user-service
+	url = https://github.com/codern-org/user-service
+[submodule "proto"]
+	path = proto
+	url = https://github.com/codern-org/proto
